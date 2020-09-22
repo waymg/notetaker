@@ -1,3 +1,0 @@
-# Express Note Taker
-
-## Description
